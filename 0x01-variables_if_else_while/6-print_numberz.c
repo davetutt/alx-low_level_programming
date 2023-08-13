@@ -14,8 +14,9 @@ int main(void)
 	{
 		putchar((k % 10) + 'O');
 
-		putchar('\n');
 	}
+
+	putchar('\n');
 
 	return (0);
 }
