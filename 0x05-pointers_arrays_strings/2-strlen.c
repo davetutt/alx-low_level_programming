@@ -1,7 +1,7 @@
 #include "main.h"
 
 /**
- * _strlen(char *s)
+ * _strlen - Finds the length of a string
  *
  * @s: String to a pointer whose length is to be determined
  *
